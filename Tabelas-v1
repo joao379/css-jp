@@ -1,9 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
-<!-- saved from url=(0058)https://www.maujor.com/tutorial/joe/minhapag12.html#table2 -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!DOCTYPE html>
 
-<title>CSS desde o in�cio - p�gina 12</title>
-<style type="text/css" media="screen"><!--
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<title>Tabelas</title>
+<style type="text/css" media="screen">
 body {
 	background-color:#e8eaeb;
 	text-align:justify;
@@ -34,27 +36,36 @@ body {
 </head>
 <body cz-shortcut-listen="true">
 <div id="tudo">
-			<div id="table1">
-				<table width="100%" border="0" cellspacing="2" cellpadding="0">
-					<tbody><tr>
-						<td>1</td>
-						<td>2</td>
-						<td>3</td>
-						<td>4</td>
-					</tr>
-					<tr>
-						<td>1</td>
-						<td>2</td>
-						<td>3</td>
-						<td>4</td>
-					</tr>
-					<tr>
-						<td>1</td>
-						<td>2</td>
-						<td>3</td>
-						<td>4</td>
-					</tr>
-				</tbody></table>
+	<div id="table1">
+		<table width="100%" border="0" cellspacing="2" cellpadding="0">
+			<tbody>
+
+			 <tr>
+				<td>1</td>
+				<td>2</td>
+				<td>3</td>
+				<td>4</td>
+			 </tr>
+
+			 <tr>
+				<td>1</td>
+				<td>2</td>
+				<td>3</td>
+				<td>4</td>
+			 </tr>
+
+			 <tr>
+				<td>1</td>
+				<td>2</td>
+				<td>3</td>
+				<td>4</td>
+			 </tr>
+
+			</tbody>
+		</table>
 	</div>
+</div>
+</body>
+</html>
 			
 				
